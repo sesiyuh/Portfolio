@@ -5,7 +5,7 @@
 *.ico
 
 # Allow specific files
-!src/assets/me.png
+!public/me.png
 !src/assets/Resume.pdf
 !src/assets/t1.png
 !src/assets/t2.png

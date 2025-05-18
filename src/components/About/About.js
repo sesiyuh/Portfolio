@@ -4,7 +4,7 @@ import Resume from '../../assets/Resume.pdf';
 import Info from './Info.js';
 
 // Corrected image path
-const AboutImg = "../../assets/me.png";
+const AboutImg = "/public/me.png";
 const About = () => {
   return React.createElement(
     'section',
